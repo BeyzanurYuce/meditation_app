@@ -2,29 +2,6 @@
  A working meditation app built in Flutter using Firebase/Firestore.
 
 
-#--UPDATES--
-#In this part of the application, we have activated the settings in the sidebar.
-#Before that,fingerprint authentication was added  to go loginPage. (Extra)
-#Therefore, there must be a fingerprint registered on the phone or emulator.
-
-#Splash Screen already existed, the name of the application has been added to it,
-# and now our special icon and the name of our application appear on the phone.
-#Greeting part completed
-
-#SETTİNGS
-#JailBreak Detection,(Extra)
-#Connection Status,
-#Secure Stroge, added(Extra)
-
-#NOTİFİCATİON
-#On the notification page, there are two types of local notifications
-#that send motivational qoutes and also determine the content of the notification by  the user.
-#Alarm Manager is used in simple motivation notification
-
-#The page with motivating words is also found in the settings.
-
-# Window Manager has been added for screenshot and protection while the application is in the background.(Extra)
-
 # Features
 * Splash Screen
 * Sign in / Sign up
@@ -34,6 +11,8 @@
 * Journaling (Entries as text or speech to text input)
 * Sending notifications as "motivation of the day"
 * Scheduling reminder notificatiions
+* Fingerprint Authentication
+* Disabled screen recording
 * Jailbreak Detection
 * Connectivity Support
 #pinSSL file (Extra)
