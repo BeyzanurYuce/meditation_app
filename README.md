@@ -1,8 +1,8 @@
-# 🌟 Take Care of You
+# ☀️ Take Care of You
  A working meditation app built in Flutter using Firebase/Firestore.
+ If you liked our work, don’t forget to ⭐ star the repo to show your support.
 
-
-# Features
+# ⚡ Features
 * Splash Screen
 * Sign in / Sign up
 * Play meditation tracks
@@ -75,7 +75,7 @@ A new Flutter project.
 * [Percent Indicator](https://github.com/diegoveloper/flutter_percent_indicator/)
  
  # Authors
- [![Github Follow](https://img.shields.io/github/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+ 
 
 ## Getting Started
 
