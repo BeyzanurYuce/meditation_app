@@ -30,13 +30,21 @@
 
 
 ## 📸 Screenshots
-<p>
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.png?raw=true" alt="feed example" width="220">  
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss2.png?raw=true" alt="feed example" width="243">
+<p align = "center">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.png?raw=true" alt="feed example" width="220"> 
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss5.png?raw=true" alt="feed example" width="220">
+
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss2.png?raw=true" alt="feed example" width="220">
 </p>
-<p>
+<p align ="center">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss6.png?raw=true" alt="feed example" width="215">
 <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss7.png?raw=true" alt="feed example" width="220">
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss6.png?raw=true" alt="feed example" width="220">
+</p>
+<p align = "center">
+ <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss4.png?raw=true" alt="feed example" width="220">
+ <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss3.png?raw=true" alt="feed example" width="220">
+
+
 
 
 A new Flutter project.
