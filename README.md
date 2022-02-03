@@ -25,7 +25,17 @@
 
 # Window Manager has been added for screenshot and protection while the application is in the background.(Extra)
 
-# Certificate pinning(pinSSL) was added in the meditation track
+# Features
+* Splash Screen
+* Sign in / Sign up
+* Play meditation tracks
+* Getting images from Nasa API during meditation
+* Measuring heart rate during meditation and storing the data
+* Journaling (Entries as text or speech to text input)
+* Sending notifications as "motivation of the day"
+* Scheduling reminder notificatiions
+* Jailbreak Detection
+* Connectivity Support
 #pinSSL file (Extra)
 
 
