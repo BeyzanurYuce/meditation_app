@@ -1,0 +1,983 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+MERGED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-46:12
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:path_provider_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-36:12
+MERGED from [:assets_audio_player_web] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player_web\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_windowmanager] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_windowmanager\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:local_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\local_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:fluttertoast] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:speech_to_text] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\speech_to_text\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:health] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\health\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:android_alarm_manager_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:ssl_pinning_plugin] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\ssl_pinning_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:http_certificate_pinning] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\http_certificate_pinning\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_jailbreak_detection] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_jailbreak_detection\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\21203f4692c0947278b32c1d53eb3fcc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\beyza\.gradle\caches\transforms-3\62e66e74db2d3ec9228a93f832d6c6b3\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\06e3062dab6b947eef7c0e9ed3444c95\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\beyza\.gradle\caches\transforms-3\c8a1a45c98e6dcf9ecfc55700ff9f055\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\4359f7f741d8f537933cfdbdd739ef86\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a55f04f962e73f97266e9ef1452f9b3\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e511e0f2e4789892c0e2f8eb73d5d25e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\342ea0ef3b44411b6cab88e4e3db3dd9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\15e09b2b5bb95996a17aa36f7b4271ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\b3dc0bcfcedda7c80e0c0e763e2d7230\transformed\jetified-exoplayer-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\be5bf6f49ad13c0d8983c187ba117ba5\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0464adea30934fdde37057742caf4d6c\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3fced970a6da3243c5b4bb6d054caf0e\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3c3902815510f7f8ecb5aac3be3e4b18\transformed\jetified-exoplayer-ui-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.1] C:\Users\beyza\.gradle\caches\transforms-3\610966c242952510b4bde39ce7a7fe31\transformed\media-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\65abcf3fe1a3625c1ac4f14324457049\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\68d236b0aebf7ceba5957a2fed836468\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\ad82923eb547ee9691bcaa8af1ec919e\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6bfd7cc329f611d5d61c3127dc45d87a\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\399ac06a3fb87e9eeb6116e7a02bb747\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\beyza\.gradle\caches\transforms-3\3e673836e414f64e92cade594b191c92\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9b28bacc62e0a26b1a16102fbaa2af7e\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\62d17567d5123b04a55abae986368f02\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9dc431eba5427a2adad84bb7696e0bbc\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\a923265d716bb98c529af9249b8a4b4b\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\beyza\.gradle\caches\transforms-3\380abc5a09b3656dbd5aef7bc07bd33b\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e1261276257d65b2b65b155ddc0e37e6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\beyza\.gradle\caches\transforms-3\8d91f90ec8f785d5a6f66d0dd23fc3c2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c7fb92ed1a7495fcdea7e594b05b4bcb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\80b05e572a46eff63238e2133b8ef2b5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\18330e03094067bb02276e92a448b876\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0d4f190dba4eeabcb372665206a6c0cc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\89af0aa7195d1a011e78787fe1ca9402\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\c32c88bf8f7cec4121370d4904026d46\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\495d9dab38b5165afe87d957dad2842f\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0a0725e2cc23e661815b617a19d23a27\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\ed460821bf9327642c2b76cb574cfde9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\628f165607688debdc2c9fcd594f4962\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b32ce118f1ad9c9dc124738f3bd99f65\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\75e525e8cebc971b1f808fbb19b053dc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\eff991241efb9cacbf912f93f67adfcb\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\beyza\.gradle\caches\transforms-3\a0c4807d494d8aff45fe04d50c6eff32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c6cc0045c3d74b0b8645070dcce015c6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\0e1dd680c7d69f3e6e4e0af6d17c1a29\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\668bd041caf129b9d290dfc71d5df4dc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c63152235f9d7f3c1bd04844398a307f\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\63421e3f355fd65fce3a78e6c7c95c83\transformed\jetified-exoplayer-rtsp-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\594484ef9484672daa66cd3afeea1ce6\transformed\jetified-exoplayer-transformer-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0904a05f7ee274dfee25f399db094460\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\53e43fd0872c0b595ee0144d85e53f17\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\beyza\.gradle\caches\transforms-3\013c78ac3faccec59e6e71a9768eeae2\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\670a7407a455cb62aa093da73fa74c55\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0fa65b0b274ad1411cfa7d28cdef8bb\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b107996dfc72d4c4857886368c078fad\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\bbfa55d017efaeb99cc99726db1ab5ce\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\beyza\.gradle\caches\transforms-3\7c4931e7db811e1df85ce634b1d54310\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\7b28c3e3493950e5ef2fc0df2bc3e4ce\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\ebde3457bd1b5eb3dad523b6b6d1efad\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\55f557d74a3457f3e218d1cb95acb46b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6471686ccb3b13ad32fed06ac09d5d8f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c50b9e61e17d0d4ee05c425c378313a8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\beyza\.gradle\caches\transforms-3\7c83c24ee83d5efec0c39ccde0abb248\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\beyza\.gradle\caches\transforms-3\3f3881393de185c5b5c2286001884cc6\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\7b2b3c7f9db0c14010f25f8c21d9a11c\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.scottyab:rootbeer:0.1.0] C:\Users\beyza\.gradle\caches\transforms-3\d858238768e03e20a23ae728860dfab3\transformed\jetified-rootbeer-0.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\053754b169d6c904c0ba86922b9e0e04\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\dca51bcead6e400b8aff5af06428d9d1\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:1-75:12
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:3:5-79
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:connectivity_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0904a05f7ee274dfee25f399db094460\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0904a05f7ee274dfee25f399db094460\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\ebde3457bd1b5eb3dad523b6b6d1efad\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\ebde3457bd1b5eb3dad523b6b6d1efad\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\beyza\.gradle\caches\transforms-3\7c83c24ee83d5efec0c39ccde0abb248\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\beyza\.gradle\caches\transforms-3\7c83c24ee83d5efec0c39ccde0abb248\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:3:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:4:5-71
+MERGED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-71
+MERGED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:ssl_pinning_plugin] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\ssl_pinning_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:ssl_pinning_plugin] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\ssl_pinning_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:12:5-73
+MERGED from [:local_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\local_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-74
+MERGED from [:local_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\local_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:13:5-80
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:14:22-65
+queries
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:15:5-19:15
+intent#action:name:android.speech.RecognitionService
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:16:9-18:18
+action#android.speech.RecognitionService
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:17:21-69
+application
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:20:5-74:19
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-44:19
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-34:19
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\beyza\.gradle\caches\transforms-3\62e66e74db2d3ec9228a93f832d6c6b3\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\beyza\.gradle\caches\transforms-3\62e66e74db2d3ec9228a93f832d6c6b3\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\06e3062dab6b947eef7c0e9ed3444c95\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\06e3062dab6b947eef7c0e9ed3444c95\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\4359f7f741d8f537933cfdbdd739ef86\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\4359f7f741d8f537933cfdbdd739ef86\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\399ac06a3fb87e9eeb6116e7a02bb747\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\399ac06a3fb87e9eeb6116e7a02bb747\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\beyza\.gradle\caches\transforms-3\3e673836e414f64e92cade594b191c92\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\beyza\.gradle\caches\transforms-3\3e673836e414f64e92cade594b191c92\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\62d17567d5123b04a55abae986368f02\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\62d17567d5123b04a55abae986368f02\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9dc431eba5427a2adad84bb7696e0bbc\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9dc431eba5427a2adad84bb7696e0bbc\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\a923265d716bb98c529af9249b8a4b4b\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\a923265d716bb98c529af9249b8a4b4b\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\beyza\.gradle\caches\transforms-3\a0c4807d494d8aff45fe04d50c6eff32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\beyza\.gradle\caches\transforms-3\a0c4807d494d8aff45fe04d50c6eff32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\53e43fd0872c0b595ee0144d85e53f17\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\53e43fd0872c0b595ee0144d85e53f17\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\beyza\.gradle\caches\transforms-3\3f3881393de185c5b5c2286001884cc6\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\beyza\.gradle\caches\transforms-3\3f3881393de185c5b5c2286001884cc6\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.github.scottyab:rootbeer:0.1.0] C:\Users\beyza\.gradle\caches\transforms-3\d858238768e03e20a23ae728860dfab3\transformed\jetified-rootbeer-0.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.scottyab:rootbeer:0.1.0] C:\Users\beyza\.gradle\caches\transforms-3\d858238768e03e20a23ae728860dfab3\transformed\jetified-rootbeer-0.1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:24:9-43
+	android:usesCleartextTraffic
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:22:9-44
+activity#com.example.meditation_app.MainActivity
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:25:9-53:20
+	android:launchMode
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:27:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:30:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:29:13-163
+	android:theme
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:26:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:36:13-39:19
+	android:resource
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:38:17-54
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:37:17-72
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:45:13-48:19
+	android:resource
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:47:17-63
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:46:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:51:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:56:9-58:33
+	android:value
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:58:13-30
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:57:13-44
+service#dev.fluttercommunity.plus.androidalarmmanager.AlarmService
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:59:9-62:39
+	android:exported
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:62:13-37
+	android:permission
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:60:13-86
+receiver#dev.fluttercommunity.plus.androidalarmmanager.AlarmBroadcastReceiver
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:63:9-65:39
+	android:exported
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:64:13-96
+receiver#dev.fluttercommunity.plus.androidalarmmanager.RebootBroadcastReceiver
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:66:9-73:20
+	android:enabled
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:67:13-97
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:70:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:71:17-79
+	android:name
+		ADDED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml:71:25-76
+uses-sdk
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:assets_audio_player_web] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:assets_audio_player_web] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-9:53
+MERGED from [:flutter_secure_storage] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-9:53
+MERGED from [:flutter_windowmanager] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_windowmanager\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_windowmanager] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_windowmanager\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\local_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:local_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\local_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:speech_to_text] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\speech_to_text\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\speech_to_text\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:health] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\health\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:health] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\health\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\android_alarm_manager_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\device_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ssl_pinning_plugin] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\ssl_pinning_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ssl_pinning_plugin] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\ssl_pinning_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:http_certificate_pinning] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\http_certificate_pinning\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:http_certificate_pinning] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\http_certificate_pinning\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_jailbreak_detection] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_jailbreak_detection\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_jailbreak_detection] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_jailbreak_detection\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\21203f4692c0947278b32c1d53eb3fcc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\21203f4692c0947278b32c1d53eb3fcc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\beyza\.gradle\caches\transforms-3\62e66e74db2d3ec9228a93f832d6c6b3\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\beyza\.gradle\caches\transforms-3\62e66e74db2d3ec9228a93f832d6c6b3\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\06e3062dab6b947eef7c0e9ed3444c95\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\06e3062dab6b947eef7c0e9ed3444c95\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\beyza\.gradle\caches\transforms-3\c8a1a45c98e6dcf9ecfc55700ff9f055\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\beyza\.gradle\caches\transforms-3\c8a1a45c98e6dcf9ecfc55700ff9f055\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\4359f7f741d8f537933cfdbdd739ef86\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\4359f7f741d8f537933cfdbdd739ef86\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a55f04f962e73f97266e9ef1452f9b3\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a55f04f962e73f97266e9ef1452f9b3\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e511e0f2e4789892c0e2f8eb73d5d25e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e511e0f2e4789892c0e2f8eb73d5d25e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\342ea0ef3b44411b6cab88e4e3db3dd9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\342ea0ef3b44411b6cab88e4e3db3dd9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\15e09b2b5bb95996a17aa36f7b4271ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\15e09b2b5bb95996a17aa36f7b4271ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\b3dc0bcfcedda7c80e0c0e763e2d7230\transformed\jetified-exoplayer-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\b3dc0bcfcedda7c80e0c0e763e2d7230\transformed\jetified-exoplayer-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\be5bf6f49ad13c0d8983c187ba117ba5\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\be5bf6f49ad13c0d8983c187ba117ba5\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0464adea30934fdde37057742caf4d6c\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0464adea30934fdde37057742caf4d6c\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3fced970a6da3243c5b4bb6d054caf0e\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3fced970a6da3243c5b4bb6d054caf0e\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3c3902815510f7f8ecb5aac3be3e4b18\transformed\jetified-exoplayer-ui-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\3c3902815510f7f8ecb5aac3be3e4b18\transformed\jetified-exoplayer-ui-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] C:\Users\beyza\.gradle\caches\transforms-3\610966c242952510b4bde39ce7a7fe31\transformed\media-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] C:\Users\beyza\.gradle\caches\transforms-3\610966c242952510b4bde39ce7a7fe31\transformed\media-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\65abcf3fe1a3625c1ac4f14324457049\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\65abcf3fe1a3625c1ac4f14324457049\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\68d236b0aebf7ceba5957a2fed836468\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\68d236b0aebf7ceba5957a2fed836468\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\ad82923eb547ee9691bcaa8af1ec919e\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\ad82923eb547ee9691bcaa8af1ec919e\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6bfd7cc329f611d5d61c3127dc45d87a\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6bfd7cc329f611d5d61c3127dc45d87a\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\399ac06a3fb87e9eeb6116e7a02bb747\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\399ac06a3fb87e9eeb6116e7a02bb747\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\beyza\.gradle\caches\transforms-3\3e673836e414f64e92cade594b191c92\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\beyza\.gradle\caches\transforms-3\3e673836e414f64e92cade594b191c92\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9b28bacc62e0a26b1a16102fbaa2af7e\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9b28bacc62e0a26b1a16102fbaa2af7e\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\62d17567d5123b04a55abae986368f02\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\62d17567d5123b04a55abae986368f02\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9dc431eba5427a2adad84bb7696e0bbc\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\beyza\.gradle\caches\transforms-3\9dc431eba5427a2adad84bb7696e0bbc\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\a923265d716bb98c529af9249b8a4b4b\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\a923265d716bb98c529af9249b8a4b4b\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\beyza\.gradle\caches\transforms-3\380abc5a09b3656dbd5aef7bc07bd33b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\beyza\.gradle\caches\transforms-3\380abc5a09b3656dbd5aef7bc07bd33b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e1261276257d65b2b65b155ddc0e37e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\e1261276257d65b2b65b155ddc0e37e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\beyza\.gradle\caches\transforms-3\8d91f90ec8f785d5a6f66d0dd23fc3c2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\beyza\.gradle\caches\transforms-3\8d91f90ec8f785d5a6f66d0dd23fc3c2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c7fb92ed1a7495fcdea7e594b05b4bcb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c7fb92ed1a7495fcdea7e594b05b4bcb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\80b05e572a46eff63238e2133b8ef2b5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\80b05e572a46eff63238e2133b8ef2b5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\18330e03094067bb02276e92a448b876\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\18330e03094067bb02276e92a448b876\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0d4f190dba4eeabcb372665206a6c0cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0d4f190dba4eeabcb372665206a6c0cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\89af0aa7195d1a011e78787fe1ca9402\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\89af0aa7195d1a011e78787fe1ca9402\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\c32c88bf8f7cec4121370d4904026d46\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\c32c88bf8f7cec4121370d4904026d46\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\495d9dab38b5165afe87d957dad2842f\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\495d9dab38b5165afe87d957dad2842f\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0a0725e2cc23e661815b617a19d23a27\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\0a0725e2cc23e661815b617a19d23a27\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\ed460821bf9327642c2b76cb574cfde9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\ed460821bf9327642c2b76cb574cfde9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\628f165607688debdc2c9fcd594f4962\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\628f165607688debdc2c9fcd594f4962\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b32ce118f1ad9c9dc124738f3bd99f65\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b32ce118f1ad9c9dc124738f3bd99f65\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\beyza\.gradle\caches\transforms-3\328f5e4f0237bc7bfb543283ff3b4acc\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\75e525e8cebc971b1f808fbb19b053dc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\75e525e8cebc971b1f808fbb19b053dc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\eff991241efb9cacbf912f93f67adfcb\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\eff991241efb9cacbf912f93f67adfcb\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\beyza\.gradle\caches\transforms-3\a0c4807d494d8aff45fe04d50c6eff32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\beyza\.gradle\caches\transforms-3\a0c4807d494d8aff45fe04d50c6eff32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c6cc0045c3d74b0b8645070dcce015c6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\c6cc0045c3d74b0b8645070dcce015c6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\0e1dd680c7d69f3e6e4e0af6d17c1a29\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\0e1dd680c7d69f3e6e4e0af6d17c1a29\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\668bd041caf129b9d290dfc71d5df4dc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\668bd041caf129b9d290dfc71d5df4dc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c63152235f9d7f3c1bd04844398a307f\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c63152235f9d7f3c1bd04844398a307f\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\63421e3f355fd65fce3a78e6c7c95c83\transformed\jetified-exoplayer-rtsp-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\63421e3f355fd65fce3a78e6c7c95c83\transformed\jetified-exoplayer-rtsp-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\594484ef9484672daa66cd3afeea1ce6\transformed\jetified-exoplayer-transformer-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\594484ef9484672daa66cd3afeea1ce6\transformed\jetified-exoplayer-transformer-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0904a05f7ee274dfee25f399db094460\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\0904a05f7ee274dfee25f399db094460\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\53e43fd0872c0b595ee0144d85e53f17\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\beyza\.gradle\caches\transforms-3\53e43fd0872c0b595ee0144d85e53f17\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\beyza\.gradle\caches\transforms-3\013c78ac3faccec59e6e71a9768eeae2\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\beyza\.gradle\caches\transforms-3\013c78ac3faccec59e6e71a9768eeae2\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\670a7407a455cb62aa093da73fa74c55\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\670a7407a455cb62aa093da73fa74c55\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0fa65b0b274ad1411cfa7d28cdef8bb\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0fa65b0b274ad1411cfa7d28cdef8bb\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b107996dfc72d4c4857886368c078fad\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b107996dfc72d4c4857886368c078fad\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\bbfa55d017efaeb99cc99726db1ab5ce\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\beyza\.gradle\caches\transforms-3\bbfa55d017efaeb99cc99726db1ab5ce\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\beyza\.gradle\caches\transforms-3\7c4931e7db811e1df85ce634b1d54310\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\beyza\.gradle\caches\transforms-3\7c4931e7db811e1df85ce634b1d54310\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\7b28c3e3493950e5ef2fc0df2bc3e4ce\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\7b28c3e3493950e5ef2fc0df2bc3e4ce\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\ebde3457bd1b5eb3dad523b6b6d1efad\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\beyza\.gradle\caches\transforms-3\ebde3457bd1b5eb3dad523b6b6d1efad\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\55f557d74a3457f3e218d1cb95acb46b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\55f557d74a3457f3e218d1cb95acb46b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6471686ccb3b13ad32fed06ac09d5d8f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6471686ccb3b13ad32fed06ac09d5d8f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c50b9e61e17d0d4ee05c425c378313a8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c50b9e61e17d0d4ee05c425c378313a8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\beyza\.gradle\caches\transforms-3\7c83c24ee83d5efec0c39ccde0abb248\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\beyza\.gradle\caches\transforms-3\7c83c24ee83d5efec0c39ccde0abb248\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\beyza\.gradle\caches\transforms-3\3f3881393de185c5b5c2286001884cc6\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\beyza\.gradle\caches\transforms-3\3f3881393de185c5b5c2286001884cc6\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\7b2b3c7f9db0c14010f25f8c21d9a11c\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\beyza\.gradle\caches\transforms-3\7b2b3c7f9db0c14010f25f8c21d9a11c\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.scottyab:rootbeer:0.1.0] C:\Users\beyza\.gradle\caches\transforms-3\d858238768e03e20a23ae728860dfab3\transformed\jetified-rootbeer-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:rootbeer:0.1.0] C:\Users\beyza\.gradle\caches\transforms-3\d858238768e03e20a23ae728860dfab3\transformed\jetified-rootbeer-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\053754b169d6c904c0ba86922b9e0e04\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\053754b169d6c904c0ba86922b9e0e04\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\dca51bcead6e400b8aff5af06428d9d1\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\dca51bcead6e400b8aff5af06428d9d1\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_secure_storage] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-50
+	android:targetSdkVersion
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\android\app\src\debug\AndroidManifest.xml
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-37:19
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:25-79
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-74
+receiver#com.github.florent37.assets_audio_player.notification.NotificationActionReceiver
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-108
+receiver#com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-107
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:19:25-74
+service#com.github.florent37.assets_audio_player.notification.NotificationService
+ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33:19
+	android:enabled
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [:assets_audio_player] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-101
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:camera] C:\Users\beyza\AndroidStudioProjects\haticelab9\meditation_app (2)\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-62
+meta-data#com.google.gms.fitness.sdk.version
+ADDED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-fitness:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\f733ea532c7580355a472cfda82f970e\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:24:13-62
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7391d4fa37faf6e5134d719199b723b5\transformed\jetified-play-services-auth-20.0.1\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b7ee235229683b92df4d7c7db68d9709\transformed\jetified-play-services-cloud-messaging-17.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b76bb9327288180ed87625934087898c\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\b0e72717cbe8a17f991af569cf62a606\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\bcdc2c6f2aba17e373ac9349bc556a47\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\beyza\.gradle\caches\transforms-3\c41b9a5ab91d572154e47c7de35dedcb\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\beyza\.gradle\caches\transforms-3\f495945d501b0ad95b54d39927694d8c\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\beyza\.gradle\caches\transforms-3\6ba995d3e40318febd5fba35ba189ead\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\beyza\.gradle\caches\transforms-3\c450770d87e1053d1ff11039333e5845\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\beyza\.gradle\caches\transforms-3\85342ecd291dbdda0fda8e3b145f522f\transformed\biometric-1.1.0\AndroidManifest.xml:24:22-69
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\beyza\.gradle\caches\transforms-3\7110105acadf192ca257b861ab0e188f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\beyza\.gradle\caches\transforms-3\5a09836c71ecc3d5181624c3bce9f37a\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\beyza\.gradle\caches\transforms-3\efe50c90f01a726d182fda1da6dd935f\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
