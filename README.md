@@ -31,14 +31,15 @@
 
 ## 📸 Screenshots
 <p align = "center">
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.PNG?raw=true" alt="feed example" width="220"> 
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss5.png?raw=true" alt="feed example" width="220">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.PNG?raw=true" alt="feed example" width="230"> 
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss5.png?raw=true" alt="feed example" width="210">
 
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss2.png?raw=true" alt="feed example" width="220">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss2.png?raw=true" alt="feed example" width="210">
 </p>
 <p align ="center">
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss6.png?raw=true" alt="feed example" width="215">
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss7.png?raw=true" alt="feed example" width="220">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss6.png?raw=true" alt="feed example" width="205">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss8.PNG?raw=true" alt="feed example" width="225">
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss7.png?raw=true" alt="feed example" width="210">
 </p>
 <p align = "center">
  <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss4.png?raw=true" alt="feed example" width="220">
@@ -83,6 +84,9 @@ A new Flutter project.
 * [Flutter Toast](https://github.com/PonnamKarthik/FlutterToast)
 * [Modal Progress Hud](https://github.com/mmcc007/modal_progress_hud)
 * [Percent Indicator](https://github.com/diegoveloper/flutter_percent_indicator/)
+ 
+ # Authors
+ [![Github Follow](https://img.shields.io/github/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
 ## Getting Started
 
