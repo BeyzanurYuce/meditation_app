@@ -31,7 +31,7 @@
 
 ## 📸 Screenshots
 <p align = "center">
-<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.png?raw=true" alt="feed example" width="220"> 
+<img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss1.PNG?raw=true" alt="feed example" width="220"> 
 <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss5.png?raw=true" alt="feed example" width="220">
 
 <img src="https://github.com/BeyzanurYuce/meditation_app/blob/master/secreenshots/ss2.png?raw=true" alt="feed example" width="220">
